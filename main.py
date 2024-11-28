@@ -183,5 +183,3 @@ if __name__ == "__main__":
                               f' - {a_task["status"]}\n'
                               f'Description: {a_task["description"]}'
                               )
-
-#TODO tests

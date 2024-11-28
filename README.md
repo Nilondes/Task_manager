@@ -10,4 +10,4 @@ User can:
 - edit task or mark it as completed;
 - search for the task by keywords, category or status;
 
-The data is stored in json format. Only standard Python libraries are used except Pytest
+The data is stored in json format. Only standard Python libraries are used
