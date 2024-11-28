@@ -8,6 +8,6 @@ User can:
 - remove task by id or category;
 - view all tasks or by category;
 - edit task or mark it as completed;
-- search for the task by key words, category or status;
+- search for the task by keywords, category or status;
 
-The data is stored in json format. Only standard Python libraries are used
+The data is stored in json format. Only standard Python libraries are used except Pytest
