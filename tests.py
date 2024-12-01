@@ -1,5 +1,5 @@
 import unittest
-from main import list_tasks, add_task, remove_task, edit_task, search_task
+from functions import list_tasks, add_task, remove_task, edit_task, search_task
 
 
 class TestTaskManager(unittest.TestCase):
